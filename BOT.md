@@ -1,8 +1,17 @@
-# 🤖 The RexZ Bot
+#  The RexZ Bot
 
 RexZ operates directly within your Discord server as an unyielding sentinel. Its architecture is explicitly designed for high-speed response times, making it the **fastest antinuke and security bot** available.
 
-## 🛡️ Lightning Fast Anti-Nuke Engine
+##  Lightning Fast Anti-Nuke Engine
+
+##  Learn Every Command
+
+To explore all available commands:
+
+• Run `-help` inside your Discord server  
+• Or read the full documentation → https://docs.rexzbot.xyz
+
+The documentation contains detailed guides, command explanations, and setup instructions for every RexZ feature.
 
 RexZ's crown jewel is its bleeding-edge anti-nuke system. Traditional bots often react too late, allowing rogue admins or compromised accounts to delete channels, ban users, or alter roles. RexZ detects and neutralizes these threats instantly.
 
@@ -12,7 +21,7 @@ RexZ's crown jewel is its bleeding-edge anti-nuke system. Traditional bots often
 - **Webhook Defenses:** Detects and removes unauthorized webhooks to prevent spam and raids.
 - **Guild Update Protection:** Secures the server's name, icon, and region from being changed maliciously.
 
-## ⚖️ Auto-Moderation
+## Auto-Moderation
 
 Keep your chat clean and friendly without lifting a finger. RexZ's auto-moderation tools automatically tackle common chat issues.
 
@@ -20,7 +29,7 @@ Keep your chat clean and friendly without lifting a finger. RexZ's auto-moderati
 - **Word Filtering:** Automatically blocks profanity and custom blacklisted words.
 - **Automated Punishments:** Warn, mute, kick, or ban offenders based on customizable strike thresholds.
 
-## 🎮 Extensive Command Categories
+##  Extensive Command Categories
 
 Beyond security, RexZ provides a wide array of utility features:
 
